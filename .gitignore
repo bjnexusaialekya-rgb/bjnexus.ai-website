@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets (if you ever move the Web3Forms key out of the HTML)
+.env
+.env.local
+
+# Build output (not currently used, but harmless to have)
+node_modules/
+dist/
+build/
+
+# Zips / local backups
+*.zip
+*.bak
